@@ -12,8 +12,9 @@
 <img src="./IMG/Screenshot_20220425-033529.jpg" width="200"> <img src="./IMG/Screenshot_20220425-033551.jpg" width="200">
 <img src="./IMG/Screenshot_20220425-033741.jpg" width="200">
 
+## Introduction:
+Open project with Visual Studio Code. Then run commands:
 `flutter packages get`
-
 `flutter run`
 
 
