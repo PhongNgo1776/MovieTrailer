@@ -13,8 +13,16 @@
 <img src="./IMG/Screenshot_20220425-033741.jpg" width="200">
 
 ## Introduction:
-Open project with Visual Studio Code. Then run commands:
+Open project with Visual Studio Code. Open emulator (iphone/android). Then run commands:
+
 `flutter packages get`
+
 `flutter run`
 
-
+## My Issues during developing the app:
+- Spent time to learn Mobx and apply it to project. I spent time to fix some issues to make mobx work well with UI.
+- I spent so much time to keep structure of project clean.
+- I planed to do many things: 
+    + User screen(set theme, language, login/logout).
+    + Implement tabs: latest, now playing, upcomming.
+    + Implement filters: search by title, adult, ....
