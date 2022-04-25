@@ -21,7 +21,9 @@ Open project with Visual Studio Code. Open emulator (iphone/android). Then run c
 `flutter run`
 
 ## Libraries and architecture:
-- Architecture: Clean architecture: https://dev.to/george_andronchik/clean-architecture-of-flutter-application-part-1-theory-3b6p
+- Architecture: Clean architecture:
+<img src="./IMG/clean_architecture.jpg" width="200"> <img src="./IMG/Screenshot_20220425-033551.jpg" width="200">
+
 - Libraries:
     + mobx: State management
     + flare_flutter, flare_dart: animated image
