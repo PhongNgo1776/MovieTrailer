@@ -22,7 +22,7 @@ Open project with Visual Studio Code. Open emulator (iphone/android). Then run c
 
 ## Libraries and architecture:
 - Architecture: Clean architecture:
-<img src="./IMG/clean_architecture.jpg" width="200"> <img src="./IMG/Screenshot_20220425-033551.jpg" width="200">
+<img src="./IMG/clean_architecture.jpg" width="500">
 
 - Libraries:
     + mobx: State management
