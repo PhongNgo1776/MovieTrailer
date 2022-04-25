@@ -20,10 +20,11 @@ Open project with Visual Studio Code. Open emulator (iphone/android). Then run c
 
 `flutter run`
 
+
 ## My Issues during developing the app:
 - Spent time to learn Mobx and apply it to project. I spent time to fix some issues to make mobx work well with UI.
 - I spent so much time to keep structure of project clean.
-- I planed to do many things: 
+- I planed to do many things but I found that: they are not required to implement: 
     + User screen(set theme, language, login/logout).
     + Implement tabs: latest, now playing, upcomming.
     + Implement filters: search by title, adult, ....
