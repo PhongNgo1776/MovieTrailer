@@ -20,6 +20,21 @@ Open project with Visual Studio Code. Open emulator (iphone/android). Then run c
 
 `flutter run`
 
+## Libraries and architecture:
+- Architecture: Clean architecture: https://dev.to/george_andronchik/clean-architecture-of-flutter-application-part-1-theory-3b6p
+- Libraries:
+    + mobx: State management
+    + flare_flutter, flare_dart: animated image
+    + shimmer: animated text.
+    + http: call api
+    + google_fonts: show text using google fonts
+    + get_it: Create and use singleton object
+    + flutter_screenutil: display a reasonable layouts
+    + connectivity_plus: detect on/offline.
+    + devicelocale: detect device locale.
+    + equatable: compare objects easier.
+    + youtube_player_flutter: show and play youtube url.
+
 
 ## My Issues during developing the app:
 - Spent time to learn Mobx and apply it to project. I spent time to fix some issues to make mobx work well with UI.
