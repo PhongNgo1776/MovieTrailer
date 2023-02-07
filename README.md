@@ -1,7 +1,7 @@
 # Movie Trailer
 
 ## This is a Movie trailer app:
-- Apply flutter clean archetect: 6h.
+- Apply flutter clean archetect: 8h.
 - Auto detect locale of device to fetch data with device locale. Then APIs will return text with device locale: 4h.
 - Auto detect offline to show warning message. Then when user get connection, it automatically fetch data from API: 4h.
 - Implement classes/functions to fetch data from TMDB APIs: 8h
